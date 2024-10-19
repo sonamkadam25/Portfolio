@@ -55,7 +55,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  background: #181964;
   text-align: left;
   background-color: #fff; }
 
@@ -8813,6 +8813,7 @@ h1, h2, h3, h4, h5,
   width: 100%;
   margin-bottom: 30px;
   background: rgba(255, 255, 255, 0.1);
+  margin-left: 282px;
   padding: 30px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -8828,7 +8829,9 @@ h1, h2, h3, h4, h5,
     font-size: 14px;
     font-weight: 600;
     letter-spacing: 3px;
-    text-transform: uppercase; }
+    text-transform: uppercase; 
+   
+  }
 
 .services-1 {
   margin-bottom: 40px;
